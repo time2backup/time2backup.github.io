@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>time2backup - Thank you for downloading time2backup</title>
+    <title>time2backup - Thank you for downloading time2backup!</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -47,6 +47,8 @@
       })();
     </script>
     <!-- End Piwik Code -->
+
+    <meta http-equiv="refresh" content="0; url=<?php echo $redirect ?>" />
 </head>
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
@@ -94,42 +96,3 @@
         <div class="download-section">
             <div class="container">
                 <div class="col-lg-8 col-lg-offset-2">
-                    <h2>Thank you for downloading time2backup!</h2>
-                    <p>Your download will start soon.<br/>
-                    If not, click on <a href="https://jean.prunneaux.com/files/time2backup/stable/latest/download.php">this link</a>.</p>
-                    <a href="#" onclick="window.history.back();" class="btn btn-default btn-lg">Return to time2backup website</a>
-                    <p></p>
-                    <p>Other downloads:
-                        <a href="https://jean.prunneaux.com/files/time2backup/stable/">All files and versions</a> |
-                        <a href="https://jean.prunneaux.com/files/time2backup/stable/latest/checksums.php">SHA256 checksums</a><br/>
-                        <a href="https://github.com/time2backup/time2backup/blob/master/CHANGELOG.md">See changelog</a></p>
-                    </p>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Footer -->
-    <footer>
-        <div class="container text-center">
-            <p>Copyright &copy; 2017 <a href="https://jean.prunneaux.com">Jean Prunneaux</a></p>
-        </div>
-    </footer>
-
-    <!-- jQuery -->
-    <script src="vendor/jquery/jquery.js"></script>
-
-    <!-- Bootstrap Core JavaScript -->
-    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
-
-    <!-- Plugin JavaScript -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
-
-    <!-- Theme JavaScript -->
-    <script src="js/grayscale.min.js"></script>
-
-    <!-- Scripts -->
-    <script src="js/scripts.js"></script>
-</body>
-
-</html>
