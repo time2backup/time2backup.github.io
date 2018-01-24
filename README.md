@@ -1,4 +1,6 @@
-# time2backup website sources
+# time2backup website sources (DEPRECATED)
+Website moved to [https://time2backup.org](https://time2backup.org)
+
 Forked from [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) created by [Start Bootstrap](http://startbootstrap.com/).
 
 ## Credits
